@@ -10,11 +10,11 @@ AI 平台：http://ai.baidu.com/
 
 3、在控制台点击“百度语音”服务，点击“创建应用”，填写必填项，勾选额外接口，点击立即创建获取秘钥。在应用列表中查看自己的id
 
-![](../images/1.png)
+![](https://github.com/zhongsb/voiceRecogniction/blob/master/images/1.png)
 
 用 360 软件管家安装 vs2017 
 
-![图片描述][2]
+![](https://github.com/zhongsb/voiceRecogniction/blob/master/images/2.png)
 
 # 创建自己的项目
 
@@ -22,20 +22,20 @@ AI 平台：http://ai.baidu.com/
 
 打开 vs2017，点击文件，新建项目，选择 visual C# --> windows 桌面 --> windows 窗体应用，选择自己的项目地址，点击确定
 
-![图片描述][3]
+![](https://github.com/zhongsb/voiceRecogniction/blob/master/images/3.png)
 
 
 ## 2、添加 baiduai 开发包
 
 点击引用 --> 管理 nuGet 程序包，搜索 baiduai，点击下载
 
-![图片描述][4]
+![](https://github.com/zhongsb/voiceRecogniction/blob/master/images/4.png)
 
 ## 3、UI 设计
 
 直接拖动即可，生成界面如下
 
-![图片描述][5]
+![](https://github.com/zhongsb/voiceRecogniction/blob/master/images/5.png)
 
 ## 4、后台功能实现
 
@@ -148,4 +148,3 @@ https://ai.baidu.com/docs#/ASR-Online-Csharp-SDK/top
 [4]: /img/bVbmvNX
 [5]: /img/bVbmvN0
 
-关注微信公众号[ prepared ]，后续会更新一系列有深度的 AI 文章。
