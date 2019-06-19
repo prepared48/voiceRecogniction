@@ -22,7 +22,7 @@ AI 平台：http://ai.baidu.com/
 
 打开 vs2017，点击文件，新建项目，选择 visual C# --> windows 桌面 --> windows 窗体应用，选择自己的项目地址，点击确定
 
-![](https://github.com/zhongsb/voiceRecogniction/blob/master/images/3.png)
+![](https://github.com/zhongsb/voiceRecogniction/blob/master/images/3.jpg)
 
 
 ## 2、添加 baiduai 开发包
